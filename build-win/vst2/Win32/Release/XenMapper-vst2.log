@@ -1,0 +1,26 @@
+﻿  IPlugVST.cpp
+  XenMapper.cpp
+e:\dev\wdl-ol\wdl\iplug\IPlugStructs.h(223): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data (compiling source file ..\..\WDL\IPlug\IPlugVST.cpp)
+e:\dev\wdl-ol\wdl\iplug\IPlugStructs.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file ..\..\WDL\IPlug\IPlugVST.cpp)
+e:\dev\wdl-ol\wdl\iplug\IPlugStructs.h(231): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data (compiling source file ..\..\WDL\IPlug\IPlugVST.cpp)
+e:\dev\wdl-ol\wdl\iplug\IPlugStructs.h(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file ..\..\WDL\IPlug\IPlugVST.cpp)
+e:\dev\wdl-ol\wdl\iplug\IPlugStructs.h(223): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data (compiling source file XenMapper.cpp)
+e:\dev\wdl-ol\wdl\iplug\IPlugStructs.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file XenMapper.cpp)
+e:\dev\wdl-ol\wdl\iplug\IPlugStructs.h(231): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data (compiling source file XenMapper.cpp)
+e:\dev\wdl-ol\wdl\iplug\IPlugStructs.h(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file XenMapper.cpp)
+XenMapper.cpp(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+XenMapper.cpp(298): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+XenMapper.cpp(317): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+XenMapper.cpp(257): warning C4101: 'mapped_note': unreferenced local variable
+XenMapper.cpp(333): warning C4101: 'mapped_note': unreferenced local variable
+XenMapper.cpp(468): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+XenMapper.cpp(398): warning C4101: 'pitch_bend_temp': unreferenced local variable
+XenMapper.cpp(521): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+XenMapper.cpp(527): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  tinyfiledialogs.c
+     Creating library build-win\vst2\Win32\bin\XenMapper.lib and object build-win\vst2\Win32\bin\XenMapper.exp
+  Generating code
+  All 1139 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  XenMapper-vst2.vcxproj -> E:\dev\wdl-ol\projects\XenMapper\build-win\vst2\Win32\bin\XenMapper.dll
+  XenMapper-vst2.vcxproj -> build-win\vst2\Win32\bin\XenMapper.pdb (Full PDB)

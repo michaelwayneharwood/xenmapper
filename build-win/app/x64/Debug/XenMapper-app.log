@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h(2866): warning RC4005: '__useHeader' : redefinition
+  
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h(2876): warning RC4005: '__on_failure' : redefinition
+  
+  XenMapper-app.vcxproj -> E:\dev\wdl-ol\projects\XenMapper\build-win\app\x64\bin\XenMapper.exe
+  XenMapper-app.vcxproj -> build-win\app\x64\bin\XenMapper.pdb (Full PDB)

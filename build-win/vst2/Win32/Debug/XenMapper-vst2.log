@@ -1,0 +1,17 @@
+﻿  XenMapper.cpp
+e:\dev\wdl-ol\wdl\iplug\iplugstructs.h(223): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\dev\wdl-ol\wdl\iplug\iplugstructs.h(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\dev\wdl-ol\wdl\iplug\iplugstructs.h(231): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\dev\wdl-ol\wdl\iplug\iplugstructs.h(233): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(298): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(317): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(257): warning C4101: 'mapped_note': unreferenced local variable
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(333): warning C4101: 'mapped_note': unreferenced local variable
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(460): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(390): warning C4101: 'pitch_bend_temp': unreferenced local variable
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(513): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\dev\wdl-ol\projects\xenmapper\xenmapper.cpp(519): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+     Creating library build-win\vst2\Win32\bin\XenMapper.lib and object build-win\vst2\Win32\bin\XenMapper.exp
+  XenMapper-vst2.vcxproj -> E:\dev\wdl-ol\projects\XenMapper\build-win\vst2\Win32\bin\XenMapper.dll
+  XenMapper-vst2.vcxproj -> build-win\vst2\Win32\bin\XenMapper.pdb (Partial PDB)
